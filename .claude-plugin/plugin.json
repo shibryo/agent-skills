@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "agent-skills",
+  "displayName": "Agent Skills",
+  "version": "0.1.0",
+  "description": "Platform Engineeringの観点から、再利用可能なソフトウェア開発標準をClaude CodeのSkillとして提供します。",
+  "author": {
+    "name": "shibryo",
+    "url": "https://github.com/shibryo"
+  },
+  "homepage": "https://github.com/shibryo/agent-skills",
+  "repository": "https://github.com/shibryo/agent-skills",
+  "keywords": [
+    "platform-engineering",
+    "software-delivery",
+    "claude-code",
+    "agent-skills"
+  ]
+}
